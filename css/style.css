@@ -36,7 +36,7 @@ ul {
 .header {
     margin: 0 auto;
     max-width: 320px;
-    min-height: 500px;
+    min-height: 600px;
     padding-top: 20px;
     background-image: url(../img/header_img/header_baner.png);
     background-repeat: no-repeat;
@@ -54,7 +54,7 @@ ul {
 }
 .header__title {
     margin-left: 10px;
-    font-size: 14px;
+    font-size: 18px;
     text-transform: uppercase;
     font-weight: 700;
 }
@@ -141,8 +141,8 @@ ul {
     text-align: center;
 }
 .header__slider-item h2 {
-    font-size: 36px;
-    line-height: 36px;
+    font-size: 30px;
+    line-height: 30px;
     margin-bottom: 25px;
     font-weight: 700;
 }
@@ -420,7 +420,7 @@ ul {
     position: relative;
     margin-bottom: 25px;
     text-align: right;
-    padding-right: 15px;
+    padding-right: 1px;
 }
 .contact__email::before{
     background-image: url(../img/contacts_icons/message.png);
